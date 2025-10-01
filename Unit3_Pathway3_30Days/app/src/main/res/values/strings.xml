@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">30Days</string>
+    <string name="_1">Day 1</string>
+    <string name="_2">Day 2</string>
+    <string name="_3">Day 3</string>
+    <string name="_4">Day 4</string>
+    <string name="title_1">Spaghetti Carbonara</string>
+    <string name="desc_1">Một dĩa spaghetti carbonara với sốt kem, thịt ba chỉ và phô mai Parmezan rắc lên trên, đặt trên bàn gỗ với vài lá húng quế.</string>
+    <string name="title_2">Vietnamese Pho Bo</string>
+    <string name="desc_2">Tô phở bò nóng hổi với nước dùng trong, bánh phở trắng mềm, thịt bò thái lát, thêm hành lá và lát ớt tươi.</string>
+    <string name="title_3">Bánh mì nướng cá hồi</string>
+    <string name="desc_3">Bánh mì lát nướng giòn kèm cá hồi sốt kem chanh, trang trí vài lát chanh và ngò rí.</string>
+    <string name="title_4">Salad trái cây mùa hè</string>
+    <string name="desc_4">Tô salad gồm dưa hấu, dứa, kiwi và dâu tây, trang trí với lá bạc hà và một vắt chanh nhỏ.</string>
+</resources>
