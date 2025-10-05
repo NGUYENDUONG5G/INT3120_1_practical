@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">My City</string>
+    <string name="home">My City</string>
+    <string name="choose_place">Choose Place</string>
+    <string name="info_place">Information Place</string>
+
+    <string name="category_cafe">Quán cà phê</string>
+    <string name="category_restaurant">Nhà hàng</string>
+    <string name="category_kid">Địa điểm cho trẻ em</string>
+    <string name="category_park">Công viên / thắng cảnh</string>
+    <string name="category_shopping">Trung tâm mua sắm</string>
+
+    <string name="place_cafe_43factory_name">43 Factory Coffee Roaster</string>
+    <string name="place_cafe_43factory_desc">Quán cà phê specialty nổi tiếng, phong cách công nghiệp hiện đại, chuyên phục vụ cà phê rang xay chất lượng cao.</string>
+
+    <string name="place_cafe_nia_name">Nia Coffee</string>
+    <string name="place_cafe_nia_desc">Quán cà phê sân vườn thoáng đãng, nhiều cây xanh, thích hợp gặp gỡ bạn bè và thư giãn cuối tuần.</string>
+
+    <!-- Restaurants -->
+    <string name="place_rest_buncha_name">Bún Chả Cá Bà Lữ</string>
+    <string name="place_rest_buncha_desc">Quán bún chả cá truyền thống nổi tiếng tại Đà Nẵng, nước dùng đậm đà, hương vị chuẩn miền Trung.</string>
+
+    <string name="place_rest_miquang_name">Mì Quảng Bà Mua</string>
+    <string name="place_rest_miquang_desc">Thương hiệu mì Quảng lâu đời, hương vị đậm đà, đa dạng topping như gà, tôm, sườn.</string>
+
+    <string name="place_rest_hai_san_name">Nhà Hàng Hải Sản Bé Mặn</string>
+    <string name="place_rest_hai_san_desc">Hải sản tươi sống, phong phú, chế biến đậm chất Đà Nẵng, phù hợp cho gia đình và nhóm bạn.</string>
+
+    <!-- Parks -->
+    <string name="place_park_sontra_name">Bán đảo Sơn Trà</string>
+    <string name="place_park_sontra_desc">Khu bảo tồn thiên nhiên, không khí trong lành, có chùa Linh Ứng và cảnh biển tuyệt đẹp.</string>
+
+    <string name="place_park_asiapark_name">Asia Park – Sun World</string>
+    <string name="place_park_asiapark_desc">Công viên giải trí hiện đại, có Sun Wheel và nhiều trò chơi hấp dẫn.</string>
+
+    <string name="place_park_hoaxuan_name">Công viên Hòa Xuân</string>
+    <string name="place_park_hoaxuan_desc">Không gian xanh mát, gần sông, thích hợp cho đi dạo và hoạt động ngoài trời.</string>
+
+    <!-- Shopping -->
+    <string name="place_shop_vincom_name">Vincom Plaza Đà Nẵng</string>
+    <string name="place_shop_vincom_desc">Trung tâm thương mại hiện đại, nhiều cửa hàng thời trang, siêu thị và rạp chiếu phim.</string>
+
+    <string name="place_shop_lotte_name">Lotte Mart Đà Nẵng</string>
+    <string name="place_shop_lotte_desc">Siêu thị lớn, nhiều dịch vụ ăn uống, mua sắm và khu vui chơi trẻ em.</string>
+
+    <string name="place_shop_con_name">Chợ Cồn</string>
+    <string name="place_shop_con_desc">Khu chợ truyền thống nổi tiếng, thiên đường ẩm thực đường phố và đặc sản Đà Nẵng.</string>
+</resources>
